@@ -1,0 +1,38 @@
+{
+  "asal": [
+    {
+      "BandaraAsal": "Soekarno-Hatta (CGK)",
+      "pajak": 50000
+    },
+    {
+      "BandaraAsal": "Husein Sastranegara (BDO)",
+      "pajak": 30000
+    },
+    {
+      "BandaraAsal": "Abdul Rachman Saleh (MLG)",
+      "pajak": 40000
+    },
+    {
+      "BandaraAsal": "Juanda (SUB)",
+      "pajak": 40000
+    }
+  ],
+  "tujuan": [
+    {
+      "BandaraTujuan": "Ngurah Rai (DPS)",
+      "pajak": 80000
+    },
+    {
+      "BandaraTujuan": "Hasanuddin (UPG",
+      "pajak": 70000
+    },
+    {
+      "BandaraTujuan": "Inanwatan (INX)",
+      "pajak": 90000
+    },
+    {
+      "BandaraTujuan": "Sultan Iskandarmuda (BTJ)",
+      "pajak": 70000
+    }
+  ]
+}

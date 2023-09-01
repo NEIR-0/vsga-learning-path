@@ -1,0 +1,53 @@
+# Kalkulator sederhana
+
+Website kalkulator sederhana ini adalah alat praktis untuk melakukan perhitungan matematika dengan cepat dan mudah.
+
+## Features
+
+- Operasi penjumlahan dari dua bilangan
+- Operasi pengurangan dari dua bilangan
+- Operasi perkalian dari dua bilangan
+- Operasi pembagian dari dua bilangan
+- Operasi hasil sisa bagi dari dua bilangan
+
+## Tech
+
+Kalkulator sederhana ini dibangun dengan:
+
+- [figma](https://www.figma.com/), Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.
+- [HTML](https://www.w3schools.com/html/), The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
+- [CSS](https://www.w3schools.com/css/), Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.
+- [PHP](https://www.w3schools.com/php/), PHP is a general-purpose scripting language geared towards web development.
+- [Visual Studio Code](https://code.visualstudio.com/), Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS.
+- [XAMPP](https://www.apachefriends.org/), XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
+- [Google Chrome](https://www.google.com/chrome/), Google Chrome is a cross-platform web browser developed by Google.
+
+## Requirement
+
+- XAMPP 8.2.4 or later
+- PHP 8.2.7 or later
+
+## Structure
+
+```
+kalkulator sederhana
+----assets
+| | function.php
+| hasil.php.php
+| perhitungan.php
+| ReadMe
+```
+
+## installation
+
+Pindahkan semua file ke dalam folder xampp anda
+C:\xampp\htdocs\"your folder"
+
+start Apache pada XAMPP control panel
+
+Akses pada browser
+http://localhost/"your folder"
+
+## Credits
+
+- [ijlal](https://www.instagram.com/kazutto_2.0/)

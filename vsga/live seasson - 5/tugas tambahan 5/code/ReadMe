@@ -1,0 +1,18 @@
+# Rute Penerbangan
+
+program ini menjelaskan simulasi pembelian tiket dari bandara asal ke bandara tujuan yang memiliki nilai pajak yang berbeda sesaui table. Dengan memasukkan nama maskapai, bandara asal, bandara tujuan dan harga akan menghasilkan output tambahan seperti total pajak dan total harga
+
+## Hirarki FIle
+
+```
+Rute Penerbangan
+----assets
+| | data.json
+| | hasil.json
+| index.php
+| ReadMe
+```
+
+## Folder
+
+1. json

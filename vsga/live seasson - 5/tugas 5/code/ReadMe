@@ -1,0 +1,28 @@
+# list Toko Buku
+
+menampilkan buku dari input yang kita masukkan dan mendisplay ke bagian home
+Website ini adalah sebuah platform yang memungkinkan pengguna untuk membuat daftar buku baru. Dibangun dengan menggunakan bahasa pemrograman PHP dan format penyimpanan data JSON, website ini menawarkan pengalaman pengguna yang sederhana dan intuitif.
+
+## Hirarki FIle
+
+```
+Rute Penerbangan
+----assets
+| | data.json
+| index.php
+| ReadMe
+```
+
+## Folder
+
+1. json
+
+## dibutuhkan untuk input
+
+1. link foto online
+2. nama
+3. harga, contoh : 12.000
+
+### perhatian!!
+
+setiap menginput data diharuskan merefresh browser, untuk menampilkan data

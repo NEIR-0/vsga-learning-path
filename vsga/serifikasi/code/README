@@ -1,0 +1,28 @@
+# Pemesanan Taksi Online
+
+Menampilkan data form dari pemensanan taksi online menggunakan php dan json dengan bantuan style boostrap, pada web ini kita dapat memesan taksi secara online dengan biaya yang sudah ditentukan oleh pemilik website ini dimana "<=10km" dikenakan tarif 1000/km, jika ">10" maka biaya untuk 10 km pertama adalah Rp 1.000 / kilometer dan ditambahkan dengan Rp 5.000 untuk setiap km selanjutnya. terdapat 5 mobil sebagai pilihan yaitu Avanza, Rush, Alphard, Innova dan Fortuner.
+
+## Hirarki FIle
+
+```
+Pemesanan Taksi Online
+----assets
+| | bootstrap.css
+| | data.json
+| | logo.jpg
+| index.php
+| ReadMe
+```
+
+## Folder
+
+1. css
+2. json
+3. logo
+
+## dibutuhkan untuk input
+
+1. nama
+2. no. hp
+3. jenis mobil
+4. Jarak (km)

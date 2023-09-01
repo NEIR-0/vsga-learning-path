@@ -1,0 +1,26 @@
+[
+  {
+    "maskapai": "air asia",
+    "asal": "Soekarno-Hatta (CGK)",
+    "tujuan": "Ngurah Rai (DPS)",
+    "harga": 200000,
+    "pajak": 130000,
+    "total": 330000
+  },
+  {
+    "maskapai": "bali asian",
+    "asal": "Abdul Rachman Saleh (MLG)",
+    "tujuan": "Hasanuddin (UPG",
+    "harga": 300000,
+    "pajak": 110000,
+    "total": 410000
+  },
+  {
+    "maskapai": "leon",
+    "asal": "Abdul Rachman Saleh (MLG)",
+    "tujuan": "Inanwatan (INX)",
+    "harga": 350000,
+    "pajak": 130000,
+    "total": 480000
+  }
+]
